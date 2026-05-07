@@ -59,7 +59,7 @@ This project was created to practice React fundamentals, hooks, refs, and buildi
 
 ```bash
 git clone https://github.com/yourusername/tenzies-game.git
-cd tenzies
+cd tenzies-game
 ```
 
 2. Install dependencies:
